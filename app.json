@@ -1,7 +1,7 @@
 {
-  "name": "Cool guy bot",
+  "name": "PSFL Rules Bot",
   "description": "Basic Groupme Bot written in Node",
-  "repository": "https://github.com/petemcgrath/cool-guy-bot",
-  "logo": "http://www.tailgate365.com/wp-content/uploads/2011/06/tom-hanks-906.jpg",
+  "repository": "https://github.com/timinoc/psfl",
+  "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUaIv7MREPVfBXbAgxYxmoOzn2JpBeDl_iTlJJsWYFyuAaErqv",
   "keywords": []
 }
