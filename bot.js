@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     "bot_id" : botID,
-    "text" : "Sorry, this isn't the kind of help that will make you better at Madden 17.  \n\nYou need professional help for that. \n\nHowever, here's a list of all bot commands that can be used in PSFL Groupme chat. \n\n/news \n\n/4th down \n\n/all rules \n\n/standings \n\nThat's it for now.  Check back later for an additions! \n\nP.S. Lose a game for me.  \n\nSincerely,\n\nBot Master"
+    "text" : "Sorry, this isn't the kind of help that will make you better at Madden 17.  \n\nYou need professional help for that. \n\nHowever, here's a list of all bot commands that can be used in PSFL Groupme chat. \n\n/news \n\n/4th down \n\n/all rules \n\n/standings \n\nThat's it for now.  Check back later for any additions! \n\nP.S. Lose a game for me.  \n\nSincerely,\n\nBot Master"
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
